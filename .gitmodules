@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Vova-oss/VTBhack
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MBalemba/VTB_HACK-ITutopia-Frontend
