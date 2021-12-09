@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/Vova-oss/VTBhack
+	url = https://gitlab.bankingapi.ru/team18/VTB_HACK-ITutopia-Backend.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/MBalemba/VTB_HACK-ITutopia-Frontend
+	url = https://gitlab.bankingapi.ru/team18/VTB_HACK-ITutopia-Frontend.git
