@@ -54,5 +54,5 @@ jobs:
           script: |
             cd /home/vtb
             cp ./build_stack/docker-compose.yml .
-            env $(cat .env | grep ^[A-Z] | xargs) docker stack deploy -c docker-compose.production.yml vtb
+            env $(cat .env | grep ^[A-Z] | xargs) docker stack deploy -c docker-compose.yml vtb
 
