@@ -10,7 +10,7 @@ A centralized system for managing and optimizing corporate expenses
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 - Frontend:
   [![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-  [![Redux.js](https://img.shields.io/badge/Redux.js-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
+  [![MobX](https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white)](https://redux.js.org/)
   [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
 - Core backend:
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black)](https://www.django-rest-framework.org/)
