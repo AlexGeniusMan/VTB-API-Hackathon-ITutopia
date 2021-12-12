@@ -8,8 +8,6 @@ services:
     depends_on:
       - backend
       - frontend
-    ports:
-      - "3000:8080"
   frontend:
     image: vtb_frontend
     build:
@@ -33,8 +31,6 @@ services:
       - db
   db:
     image: postgres:13.4
-    ports:
-      - "5432:5432"
     volumes:
       - ./data/:/data/
     #   - postgres_data:/var/lib/postgresql/data/
@@ -42,7 +38,5 @@ services:
       - POSTGRES_PASSWORD=admin
       - POSTGRES_USER=postgres
       - POSTGRES_DB=postgres
-    ports:
-      - "5432:5432"
 # volumes:
 #   postgres_data:
